@@ -1,0 +1,648 @@
+Information Technology - Mississauga
+Our Client in the Telco Industry is seeking a Big Data Hadoop Developer (SQL/HiveQL) for their Mississauga office. This is a 12 months contract to start, possible extension and perm hire.
+ 
+Description:
+Responsible for the development, design, and implementation of application systems. Designs and codes programs, including the ability to test their coding, find errors, and correct codes to provide quality coding. Interfaces with technical team to design and implement application systems.
+Participate in all aspects of Big Data solution delivery life cycle including analysis, design, development, testing, production deployment, and support
+Develop standardized practices for delivering new products and capabilities using Big Data technologies, including data acquisition, transformation, and analysis
+Ensure Big Data practices integrate into overall data architectures and data management principles (e.g. data governance, data security, metadata, data quality)
+Create formal written deliverables and other documentation, and ensure designs, code, and documentation are aligned with enterprise direction, principles, and standards
+Train and mentor teams in the use of the fundamental components in the Hadoop stack
+
+Assist in the development of comprehensive and strategic business cases used at management and executive levels for funding and scoping decisions on Big Data solutions
+Troubleshoot production issues within the Hadoop environment
+Performance tuning of a Hadoop processes and applications
+Proven experience as a Hadoop Developer/Analyst in Business Intelligence and Data management production support space is needed.
+Bachelor in Computer Science, Management Information Systems, or Computer Information Systems is required.
+
+Minimum of 2 years of building and coding applications using Hadoop components – HDFS, Kafka, Flume, Hbase, Hive, Sqoop.
+Minimum of 2 years of coding Java, Scala / Spark, Python, Hadoop Streaming, HiveQL
+Minimum 4 years experience of traditional ETL tools & Data Warehousing design.
+Strong personal leadership and collaborative skills, combined with comprehensive, practical experience and knowledge in end-to-end delivery of Big Data solutions.
+Experience in Sysadmin, Exadata and other RDBMS is a plus.
+Must be proficient in SQL/HiveQL
+Hands on expertise in Linux/Unix and scripting skills are required.
+Strong communication, technology awareness and capability to interact work with senior technology leaders is a must
+Good knowledge on Agile Methodology and the Scrum process
+Delivery of high-quality work, on time and with little supervision
+Critical Thinking/Analytic abilities
+
+ 
+To Apply, Please send your resume to: m.kaneria@Maxsys.ca 
+About the Job
+Eagle is currently seeking a Big Data Hadoop Specialist for a twelve (12) month contract position, scheduled to begin immediately.
+
+
+Key Responsibilities
+
+
+The successful candidate will be responsible to:
+Participate in all aspects of Big Data solution delivery life cycle including analysis, design, development, testing, production deployment, and support;
+Develop standardized practices for delivering new products and capabilities using Big Data technologies, including data acquisition, transformation, and analysis; 
+Ensure Big Data practices integrate into overall data architectures and data management principles (e.g. data governance, data security, metadata, data quality); 
+Create formal written deliverables and other documentation, and ensure designs, code, and documentation are aligned with enterprise direction, principles, and standards; 
+Train and mentor teams in the use of the fundamental components in the Hadoop stack; 
+Assist in the development of comprehensive and strategic business cases used at management and executive levels for funding and scoping decisions on Big Data solutions; 
+Troubleshoot production issues within the Hadoop environment; and,
+Tune of the Hadoop processes and applications.
+
+
+Skills and Qualifications
+
+
+The qualified candidate must have:
+Proven experience as a Hadoop Developer/Analyst in Business Intelligence and Data management production support space is needed;
+Bachelor’s degree in computer science, Management Information Systems, or Computer Information Systems is required;
+Minimum of 2 years of building and coding applications using Hadoop components - HDFS, Kafka, Flume, Hbase, Hive, Sqoop;
+Minimum of 2 years of coding Java, Scala / Spark, Python, Hadoop Streaming, HiveQL; 
+Minimum 4 years experience of traditional ETL tools & Data Warehousing design; 
+Strong personal leadership and collaborative skills, combined with comprehensive, practical experience and knowledge in end-to-end delivery of Big Data solutions;
+Experience in Sysadmin, Exadata and other RDBMS is a plus;
+Must be proficient in SQL/HiveQL;
+Hands on expertise in Linux/Unix and scripting skills are required;
+Strong communication, technology awareness and capability to interact work with senior technology leaders is a must;
+Good knowledge on Agile Methodology and the Scrum process;
+Delivery of high-quality work, on time and with little supervision; and,
+Critical Thinking/Analytic abilities.
+
+
+Don't miss out on this opportunity, apply online today!
+
+
+Eagle is an equal opportunity employer and will provide accommodations during the recruitment process upon request. We thank all applicants for their interest; however, only candidates under consideration will be contacted. Please note that your application does not signify the beginning of employment with Eagle and that employment with Eagle will only commence when placed on an assignment as a temporary employee of Eagle.
+About the Job
+Position Title: Big Data Developer 
+
+
+
+
+
+Role Summary: 
+
+
+
+As a Big Data Developer, you will be accountable for design, development, testing and implementation of high quality solutions for the Enterprise Data Lake. 
+
+
+
+
+
+Accountabilities: 
+
+• Responsible for designing, developing, testing, tuning and the deployment of software solutions within the Hadoop Eco system. 
+
+• Designing and implementing product features in collaboration with business and IT stakeholders 
+
+• Designing reusable Java components, frameworks and libraries 
+
+• Working closely with the Architecture group and driving solutions 
+
+• Implementing the data management framework for the Data Lake 
+
+• Supporting the implementation and driving to stable state in production 
+
+• Reviewing code and providing feedback relative to best practices, performance improvements etc. 
+
+• Demonstrating substantial depth of knowledge and experience in a specific area of Big Data and Java development 
+
+• Leverage existing frameworks and standards, while contributing ideas to or resolving issues with current framework owners - where no framework or pattern exists, create them 
+
+• Professionally influence and negotiate with other technical leaders to arrive and implement the most optimum solution considering standards and project constraints 
+
+• Mentor junior and other team members in all related Big Data technologies 
+
+The above is not an all-inclusive list of all duties performed by this job title, only a representative summary of the primary duties and responsibilities. He/She may be required to perform other additional duties as assigned. 
+
+
+
+Skills and Experience Requirements: 
+
+
+
+• 3+ years of hands on expertise with Big data technologies (HBASE, HIVE, SQOOP, PIG) 
+
+• Demonstrated proficiency with Spark, Scala, Python, PySpark, MapReduce, HDFS, Tez 
+
+• Experience with building stream-processing systems, using solutions such as Storm or Spark-Streaming. 
+
+• Experience with integration of data from multiple data sources 
+
+• Experience with NoSQL databases, such as HBase, Cassandra, MongoDB 
+
+• Knowledge of various ETL techniques and frameworks, such as Flume and Sqoop 
+
+• Experience with various messaging systems, such as Kafka or RabbitMQ 
+
+• Experience with Big Data ML toolkits, such as Mahout and SparkML 
+
+• Good understanding of Lambda Architecture, along with its advantages and drawbacks 
+
+• Experience with Hortonworks or Cloudera distribution 
+
+• Proficient understanding of distributed computing principles 
+
+
+
+Assets 
+
+• Collaborative personality, able to engage in interactive discussions with the rest of the team 
+
+• Excellent technical analysis/design skills 
+
+• Ability to work with technical and business-oriented teams 
+
+• Track record of delivering projects on time 
+
+• Ability to work with non-technical resources on the team to translate data needs into Big Data solutions using the appropriate tools 
+
+• Skills to develop technical resources for methods, procedures, and standards to use during design, development, and unit testing phases of the project. 
+
+• Excellent communication skills (both written and oral) combined with strong interpersonal skills 
+
+• Strong analytical skills and thought processes combined with the ability to be flexible and work analytically in a problem solving environment 
+
+• Strong attention to detail 
+
+• Strong organizational and multi-tasking skills
+
+
+
+ 
+
+
+
+Nice to Have Technical Skills: Working in a Cloud environment - AWS
+
+
+
+
+
+**Note, Reliability Clearance is required.
+
+
+Client ID: 261467
+
+DevOps  - Big Data
+
+On behalf of our client in the Retail Sector, PROCOM is looking for a DevOps Analyst - Big Data.
+
+DevOps  - Big Data – Job Description
+
+Analyze and resolve incidents in accordance with priority, impact and SLAs
+Propose and implement process improvements by considering Agile and DevOps practices
+Define and maintain standards as well as gate-keeping processes between QA and PROD
+Review and integrate all application requirements, including functional, security, integration, performance, quality, and operational requirements
+Deliver second level support in concert with Operations, utilizing Incident & Problem Management best practices
+Work with the customer and end users to define application and technical requirements
+Agile and innovative individuals, who are able to manage in an environment of change and ambiguity to help us take bold and strategic moves in this rapidly evolving retail environment
+Creative thinkers who take initiative and are capable of building, launching and managing projects/programs that drive results for our customers
+Problem solvers with the ability to analyze and prioritize to meet business objectives
+DevOps  - Big Data – Mandatory Skills
+
+3 years experience in one or more of the following areas of focus:
+Strong knowledge and experience with BI, Data Warehousing, ETL or Hadoop
+Reporting experience on any of the BI tools (Cognos preferred, Tableau, Spot fire, Micro strategy)
+IT Support Management
+Hands on experience working with report migration projects and writing and executing complex SQL queries
+Hands on experience with Agile and DevOps methodologies
+Experience with Hadoop and related programs and it's key architecture technologies: Nifi, Hive, Sqoop, Kafka, Pig, Flume, MapReduce, Spark and HBase would be an asset
+DevOps  - Big Data - Assignment Start Date
+
+ASAP - 3 months to start
+
+DevOps  - Big Data - Assignment Location
+
+Midtown Toronto
+Our client in Downtown Toronto is looking to add "Big Data Consultant" to their team.
+
+Why you want to work here:
+
+-Collaborative Enviornment
+-Great Salary
+-Excellent Benefits
+-3 Weeks Vacation
+-Young Dynamic Team
+-Flexible Work Timings
+
+Still not convinced:
+
+-2 International Trips to Prague Per Year (1 In Summers, 1 in Winters)
+-Gym Membership
+-Breakfast & snacks In Office
+-Office Cell Phones
+
+Your challenge
+Analyze Hadoop/Spark ecosystems and find ways to benefit from integration with our products and solutions.
+Work with our customers to find new opportunities where big data can help their businesses.
+Prepare, manage, and deliver POCs from beginning to end using a wide array of technologies.
+Provide feedback to product managers and developers. Explore new markets, look for business opportunities, and support marketing initiatives.
+
+Is this you?
+You can effectively and comfortably communicate with English-speaking teams located around the world.
+You see challenges as opportunities. Why wait for a task list when you can start innovating right away?
+You enjoy constantly learning new things and sharing your knowledge with others.
+
+Skills
+Programming experience
+SQL and relational DB principles
+Unix shell
+Bonus knowledge
+Java
+Apache Hadoop, Spark, NoSQL, XSLT
+Parallel programming and distributed systems
+Computer science, graph theory, automata theory
+
+On behalf of our financial client, ProViso Consulting is seeking a Big Data Platform Administrator  for Contract opportunity.
+
+Job Details:
+
+Job Description: 
+Client, one of Canada's leading professional services firms, provides audit, tax, enterprise risk, consulting, and financial advisory services through more than 8,000 people in 50 offices. 
+We are looking for an intermediate platform administrator with 2-5 years’ experience in. Hadoop implementation is Hortonworks but Cloudera experience is acceptable.
+• Hadoop Security and Administration
+• Hadoop Lifecycle Management
+• Hadoop Operations and maintenance
+• Linux Layer Security and Administration
+• Cloud Security and Administration
+
+Experience:
+• YARN, HDFS, MR, Hive, HBase, Oozie, Zookeeper, Ambari Infra, Atlas, Kafka, Knox, Log Search, Ranger, RangerKMS, SmartSense, Spark2, Zeppelin, PostgreSQL, NiFi, NiFi Registry 
+• Software Application and Version #: HA Name Node, HA Resource Manager, Kerberized, SPNEGO authentication, Data Wire Encryption, LDAP (AD) integration, NiFi HA, Kafka HA 
+
+Other Relevant Information 
+• Resource must possess or be eligible for a Government of Canada Enhanced Reliability Security Clearance
+Role: Big Data Specialist
+Employment Type: Full-Time Job
+Location: Calgary, Alberta, Canada
+
+Primary Skills: Big data technologies like HDFS, Hadoop and Spark. Knowledge in Scala, Python and R.
+Secondary Skill: .NET C# Programming experience, Esri ArcGIS Pro/ArcServer development 
+
+Required:
+8 to 10 years’ of .NET C# Programming experience
+Oracle experience
+NHibernate experience
+Framework Development
+Web API Development
+Single Sign-On Authentication development
+Excellent analytical and math skills – resolving difficult procedures. Creating custom algorithms to solve problems
+Esri ArcGIS Pro/ArcServer development and administration
+UML modelling – to facilitate communication of architecture and design
+
+Database developer (aka Application DBA) – Database developer straddles the middle ground between a programmer and a system DBA. A database developer will have these skills that most programmers would not:
+Significant database knowledge and experience
+The ability to write queries that perform optimally
+Knowledge of basic database security practices
+Data Lake related technologies: HDFS, Spark, Hadoop. Knowledge in Scala, Python and R 
+                                               Big data technologies like Hadoop and Spark
+                                               SQL 
+                                               Web Services
+                                               JSON & XML
+                                               Python
+DevOps System Administrator (Big Data)
+
+Volt is looking to hire a DevOps System Administrator for a Client in the Gaming industry in Montreal, QC. This is a permanent role offering full-time hours and benefits, as well as a dynamic and social work environment.
+
+The ideal candidate for this position is comfortable administering all technical aspects of the client's web and online gaming cloud infrastructure with on service delivery and big data processing. Passion for video games and the gaming industry is an asset.
+
+Duties
+
+* Design, install and maintain big data analytics platform;
+
+* Manage public and private cloud infrastructure;
+
+* Support the analytics team requests for specialized solutions;
+
+* Troubleshooting and performance tuning of analytics;
+
+* Maintain and improve system automation and management tools;
+
+* Administer and manage the web and online gaming server environment globally;
+
+* Work alongside the system administrators located at other sites;
+
+* Monitor online services and take necessary actions to ensure SLAs are met or exceeded;
+
+* Monitor system health and security;
+
+* Create system, process and workflow documentations;
+
+* Provide technical support towards all aspect of the infrastructure and help developers in debugging, troubleshooting and optimizing online software components and tools;
+
+* Work with agile delivery teams to ensure build management, automated testing and software deployment;
+
+* Work closely with hosting companies and datacenters to improve the service delivery throughout the business;
+
+* Take proactive approach in identifying and alleviating capacity planning issues and bottlenecks, forecast resource requirements;
+
+* Provide high quality support of the infrastructure and liaise with the other 3rd level support teams regarding networking, server and storage issues;
+
+* Script, manage, configure and tailor monitoring solutions and respond to incidents.
+
+
+
+Experience and qualifications
+
+* Working in production public cloud environment;
+
+* Experience in building and managing big data processing pipelines in a production environment;
+
+* Experience with managing both SQL and noSQL systems;
+
+* in-depth knowledge and management experience with AWS and GCP automation pipelines and serverless architectures;
+
+* Strong Linux system administration background;
+
+* System automization experience regarding deployment and configuration management.
+
+* Experience in writing, debugging and troubleshooting analytics jobs, map/reduce jobs, spark jobs in python/scala/java;
+
+* Hands-on experience with more of the following components: hadoop, elesticsearch, impala, spark, hue, apache, nginx, mysql, redis, postgres, mongodb, haproxy;
+
+* Experience in designing/managing highly available systems, distributed systems, clustering;
+
+* In-depth knowledge of big data processing solutions, architectures, system components;
+
+* Competent programming or scripting background in one or more of the following languages: python, java, scala, r, bash, javascript;
+
+
+
+* Solid network troubleshooting experience;
+
+* Interest in working towards a high quality, finding the right solutions, following best practices;
+
+* Strong focus on business outcomes and a service provider attitude;
+
+* Interest in video games, online gaming.
+DO YOU HAVE EXPERIENCE WITH LARGE (100TB+) CLOUD STORAGE SYSTEMS AND ETL? Our client is looking for a Senior Data Engineer to join them in a full-time role.
+
+ 
+
+Big Data Engineer (RedShift)
+
+ 
+
+About the Opportunity
+
+Our client, a thriving company in downtown Toronto, is looking for a Data Engineer to join their growing Toronto office. This is a unique opportunity to work on cutting-edge big data warehouses, data lakes and data analytics services.
+
+ 
+
+In this role you will be:
+
+Working on designing and maintaining/mining large data stores
+Working with the latest cloud technologies like AWS RedShift, etc.
+Working on ETL processes, database tuning, data validation/ modeling
+Working in a very Agile environment
+ 
+
+About You
+
+Expert on RDBMS - architecting/designing/implementing/maintaining large data warehouses
+Expert on SQL - querying and integrating new data sources
+Expert on ETL - processes and data modeling
+Experience working with distributed big data processing algorithms
+Experience with cloud data platforms - eg AWS Reshift, Google BigQuery, etc
+ 
+
+Salary
+
+$105,000 - $115,000/year
+
+ 
+
+How to Apply
+
+Click the “Apply Now” button and follow the instructions to submit your resume. Please note that we only accept documents in MS Word or Rich Text formats. When referencing this job, quote #21834.
+
+You must currently reside within the Greater Toronto Area and be permitted to work in Canada to be considered for this opportunity. A recruiter will be in touch with you if your profile meets our client’s requirements for this role.
+
+ 
+
+About Lannick
+
+Lannick is the premier professional recruitment and staffing firm in the Greater Toronto Area. Founded in 1985, Lannick provides best-in-class finance, accounting and technology professionals at all roles and levels through its three divisions: Lannick Finance & Accounting, Pro Count Staffing and Lannick Technology. Lannick places more than 1,000 candidates annually and is a preferred vendor for Canada’s most successful organizations. Learn more at www.lannick.com.
+
+NTT DATA Services partners with clients to navigate and simplify the modern complexities of business and technology, delivering the insights, solutions and outcomes that matter most. We deliver tangible business results by combining deep industry expertise with applied innovations in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. NTT DATA Services, headquartered in Plano, Texas, is a division of NTT DATA Corporation, a top 10 global business and IT services provider with 118,000+ professionals in more than 50 countries, and NTT Group, a partner to 88 percent of the Fortune 100. Visit nttdataservices.com to learn more.
+
+Job description:
+
+At NTT DATA Services, we know that with the right people on board, anything is possible. The quality, integrity, and commitment of our employees are key factors in our company’s growth, market presence and our ability to help our clients stay a step ahead of the competition. By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA Services and for the people who work here. 
+
+NTT DATA Services currently seeks a Hadoop Developer to join our team in Halifax, NS.
+
+The candidate must have strong experience/exposure across the entire data landscape with the ability to extend traditional data architecture techniques to include big data components. This includes Data Strategy and Architecture development, Data Governance, Master Data Management, Metadata management, Data Integration/ingestion, Data Quality management, Data modeling, Data warehousing, Business Intelligence and advanced Analytics.
+
+- Must possess a thorough understanding of data management as well as big data technology, tools, processes and data architecture best practices to guide data and big data centric initiatives.
+
+- Demonstrated ability to liaise closely with business and IT leadership to establish, defend, and negotiate the approach for implementing data management solutions.
+
+- Serves as an expert consultant to senior IT leadership on Data architecture and enterprise data initiatives.
+
+- Strong communication, organizational, interpersonal and time management skills; must have the ability to work independently with minimal direction or supervision in a team setting and dynamic environment.
+
+- Ability to identify and articulate domain specific use cases that can take advantage of big data tools and technologies.
+
+Qualifications
+
+- 5+ years of experience with the Hadoop ecosystem and Big Data technologies.
+
+- Expert level software development experience.
+
+- Ability to dynamically adapt to conventional big-data frameworks and tools with the use-cases required by the project.
+
+- Hands-on experience with the Hadoop eco-system (HDFS, MapReduce, Hbase, Hive, Impala, Spark, Kafka, Kudu, Solr).
+
+- Experience with building stream-processing systems using solutions such as spark-streaming, Storm or Flink etc.
+
+- Experience in other open-sources like Druid, Elastic Search, Logstash etc is a plus.
+
+- Knowledge of design strategies for developing scalable, resilient, always-on data lake.
+
+- Some knowledge of agile(scrum) development methodology is a plus.
+
+This position is only available to those interested in direct staff employment opportunities with NTT DATA, Inc. or its subsidiaries.  Please note, contractors or the equivalent will NOT be considered. We offer a full comprehensive benefits package that starts from your first day of employment.        
+
+About NTT DATA Services
+
+NTT DATA Services partners with clients to navigate and simplify the modern complexities of business and technology, delivering the insights, solutions and outcomes that matter most. We deliver tangible business results by combining deep industry expertise with applied innovations in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. NTT DATA Services, headquartered in Plano, Texas, is a division of NTT DATA Corporation, a top 10 global business and IT services provider with 118,000+ professionals in more than 50 countries, and NTT Group, a partner to 88 percent of the Fortune 100. Visit nttdataservices.com to learn more.
+
+Adastra Corporation provides world-class Business Intelligence, Data Integration, Data Warehousing and Master Data Management services and solutions to leading companies around the globe.  Leveraging over a decade of experience across industries and technologies, Adastra bridges the gap between pressing business needs and technology consulting to protect existing investments and extend and unlock their business value. At Adastra, our people are our business. Our valued employees have shaped the Information Management industry across the globe. We challenge and encourage our employees to achieve both their professional goals and personal aspirations.  
+
+Job Description
+
+
+
+Currently, we are seeking a Lead Hadoop Developer for our client who is based in Waterloo. 
+
+Job Duties and Responsibilities
+
+
+Analyze, design, develop, test, document and troubleshoot Big Data programs from detailed and high level specifications
+Manage a team of 7 Big Data developers
+10+ years of ETL Hadoop experience
+5+ years managing teams
+Expertise in SDLC
+Expertise in ETL architecture
+Utilize HDFS, HIVE / Impala, Sqoop, Spark, Falcon, Atlas, Ambari, Ranger, Sentry, Python, Scala and other ETL tools optimized for Big Data (Talend, Informatica BDE, Ataccama) to source, ingest, manipulate, load and analyze data.
+Assist in the requirements analysis and subsequent developments
+Conduct unit tests and assist in test preparations to ensure data integrity, data quality and program quality
+Work closely with Designers, Business Analysts and other Developers
+Liaise with Project Managers, Quality Assurance Analysts and Business Intelligence Consultants
+Design and implement technical enhancements of Big Data, Data Warehouse, Business Intelligence solutions as required
+
+Required Skills, Education, Knowledge and Experience
+
+Robust experience with all aspects of Data Management processes, including acquisition, integration and consumption of structured and unstructured data
+Cloudera Navigator/ Manager
+2-4 years of hands on experience providing technical solutions with utilizing Big Data tools are mandatory. This includes:  HDFS, HIVE / Impala, Sqoop, Spark, Falcon, Atlas, Ambari, Ranger, Sentry, Python, Scala and other ETL tools optimized for Big Data (Talend, Informatica BDE, Ataccama)
+2-4 years of experience working with tools used to integrate data including concepts such as joins, lookups, filters, transformations, de-normalization, and aggregations
+2-4 years of experience with Data Governance practices and techniques, including knowledge of Operational Metadata, Business Metadata, Technical Metadata (specifically with lineage) and Data Retention
+Experience with utilizing tools used to ingest data of various forms including JSON, XML, Databases, REST APIs, Message Queue’s etc.
+Familiarity with security considerations associated with data management such as encryption, masking, obfuscation and kerberos
+Understanding of Data Architecture concepts and implementation techniques such as, normalization, denormalization, star and snowflake schemas
+Experience with PL/SQL, SQL, Unix / Linux Shell Scripting (BASH, KSH) including development and troubleshooting used to automate and orchestrate tasks
+Familiarity with algorithm design and implementation
+Knowledge of object-oriented design and development
+Experience with reporting tools to create prompt visualizations and reports to facilitate the consumption of data
+Bachelor of Science Degree or higher education (Computer Science or related field is an asset)
+Must be flexible to work throughout the Greater Toronto Area (GTA) 
+Strong communication and analytical skills
+
+Desirable Skills and Experience
+Experience in one or more of the following ETL tools optimized for Big Data, including Pentaho and Hadoop
+Familiarity with partitioning approaches and strategies, as enables by certain tools, which can be used while data integration is an asset
+Experience with Version Control M (GIT, Subversion etc.)
+Experience with Python or other scripting languages is an asset
+Familiarity with abstract data types and data structures for implementation
+Experience with Software Development Approaches and Techniques (Waterfall, Agile etc.)
+Industry experience in one or more of the following sectors is an asset:  Financial Services, Telecommunications, Mining, Insurance, Health Care, or Retail
+
+Must Haves
+Flexibility to travel in GTA and to Waterloo
+Open to considering a full-time, permanent position  
+
+Equal Opportunity Employer
+
+ 
+In our commitment to promote fair and equitable treatment of all employees and applicants, Adastra Corporation provides equal employment opportunities for all individuals regardless of age, sex, disability, race, ethnic origin, citizenship, creed, sexual orientation, marital status or any other ground as described in the Ontario Human Rights Code.  In addition, accommodation will be provided during the hiring process. Adastra Corporation’s implementation and support of employment initiatives, encourage diversified labour force participation and equal access to opportunities based on merit and performance.
+We're looking for Hadoop Administrator on contract for our Canadian banking customer based out in Toronto.
+
+Duration of Contract: 6 Months(Extendable)
+
+Working Location: Toronto, ON – Canada 
+
+Job Role:
+
+Experience managing full stack Hadoop distribution (preferably Hortonworks). Including monitoring
+Experience with implementing and managing Hadoop related security in Linux environments (Kerberos, SSL…)
+Strong working knowledge of disaster recovery related to Hadoop platforms
+Working knowledge of automation tools
+Administration experience with Kafka, HBase, Spark, Hive, and Ambari
+Experience with administering Linux production environment
+Strong written and verbal communication skills
+Excellent analytical and problem-solving skills
+ Interested means reply with your updated resume to this mail id  Sasirega.neduenchezhian@kumaran.com
+Company Profile
+
+Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services. The Firm's employees serve clients worldwide including corporations, governments and individuals from more than 1,200 offices in 43 countries.
+
+
+As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence and strong team ethic. Morgan Stanley can provide a superior foundation for building a professional career - a place for people to learn, to achieve and grow. A philosophy that balances personal lifestyles, perspectives and needs is an important part of our culture.
+
+
+ 
+
+Technology
+
+Technology works as a strategic partner with Morgan Stanley business units and the world's leading technology companies to redefine how we do business in ever more global, complex, and dynamic financial markets. Morgan Stanley's sizeable investment in technology results in quantitative trading systems, cutting-edge modelling and simulation software, comprehensive risk and security systems, and robust client-relationship capabilities, plus the worldwide infrastructure that forms the backbone of these systems and tools. Our insights, our applications and infrastructure give a competitive edge to clients' businesses—and to our own.
+
+Corporate and Funding Technology is comprised of three primary areas: Operations & Risk, Corporate and Client Financing.
+
+- Operations & Risk helps the Firm’s businesses while maintaining a strong risk profile. The group includes Operations, Funding, Finance and Risk Technology.
+- Corporate improves our operating environment and is made up of Legal, Compliance & Corporate Governance, Digital & Corporate Communications and Human Resources Technology groups.
+- Client Financing platforms provide technology and service to our hedge fund and Asia high-net-worth clients. Groups include Prime Brokerage, Private Wealth Management Asia and Counterparty Risk Technology.
+
+Position Description:
+
+DevOps team within Legal, Compliance and Corporate Governance Technology Division (LCG) at Morgan Stanley provides application platform design and build services across the department.
+
+The key function of this team includes understanding the technical requirement from application owners and business, participate in technical evaluation of vendors and vendor technologies, conduct proof of concept and ultimately architecture / engineering an application platform conforming Morgan Stanley security blueprints providing good performance, reliability and scalability.
+
+This team also interfaces with central technology teams like Infrastructure, Security, Network, Database and procurement to design a solution. The team leverages a variety of tools for platform design and application trouble shooting as they also provide level 4 support to the application operations team.
+
+A DevOps team member generally will have a 360 degree view of the application which includes but not limited to system architecture, underlying infrastructure, performance parameters and the middleware technologies used by the application. The team further does heavy scripting and creates tools to automate repetitive tasks to support development and operations teams and also supports the larger DevOps initiative along with automation.
+
+Responsibilities
+
+The successful candidate will: 
+- Apply technical skills to design, build and automate application platforms. 
+- Partner with other teams in Morgan Stanley like enterprise infrastructure, MIS, networking, security, storage, and database and data center to roll out application platforms successfully as per the design.
+- Coordinate with development and business teams to obtain sign off for non-functional requirement testing. 
+- Maintain a 360 degree view of an application and its underlying middleware and infrastructure components.
+- Document the designs for future reference and periodically review / refresh the same.
+- Support vendor / vendor technology onboarding following the Morgan Stanley best practices and security blueprint.
+- Apply technical skills to automate daily support functions, improve system stability, support hygiene initiatives and deliver innovation that creates efficiency and consistency.
+
+
+Required Skills
+
+
+- 7 plus years in as similar role of hands-on application / middleware specialist.
+- Bachelor degree in Computer Science or equivalent in related field
+- Full hands-on knowledge of Linux 6 / 7 operating systems with troubleshooting skills including but not limited to performance tuning, kernel parameters, network and TCP/IP settings and application troubleshooting.
+- Very good hands-on solution design, integration and troubleshooting knowledge of middleware technologies like web servers (Apache / IBM HTTPD), Application Servers (Web Sphere, Tomcat), Database (DB2, MySQL, PostgreSQL), Single Sign-On (Siteminder. Ping Auth), SAML implementation. 
+- Understanding of storage platforms like NAS / SAN from an implementation perspective. Expert level skills for end-to-end application troubleshooting along with knowledge of leveraging appropriate tools for various components to identify and address the bottleneck.
+- Clear conceptual and basic operational knowledge of relational database and query languages. 
+- Clear concept of load balancer, firewalls, web proxies and HTTP protocol. 
+- Should be familiar with basic security policies for secure hosting solutions, Kerberos and standard encryption methodologies including SSL.
+- Should have performed capacity planning and performance tuning exercise
+
+Desired skills
+
+- Expert level Perl and Shell scripting skills. Python and VB scripting is an added plus.
+- A system architecture / developer work experience is an added plus.
+- Familiarity with NoSQL database (MarkLogic, MongoDB) and query languages is an added plus.
+- Exposure to Big Data platforms like Hadoop / Cloudera and Elastic Search is nice to have.
+- Prior experience of working in a global financial organization is an advantage
+- Should have prior experience managing large web based n-tier applications in secure environments and cloud.
+
+
+Knowledge of French is English is required.
+
+Morgan Stanley is an equal opportunities employer. We work to provide a supportive and inclusive environment where all individuals can maximize their full potential.
+
+ 
+
+Synechron, the largest independent pure-play technology consulting and outsourcing provider for the financial services industry is a $300-million firm based in New York. Since inception in 2001, Synechron has been on a steep growth trajectory. With 8,000+ professionals operating in 16 countries across the world, it has presence across US, Australia, Canada, UK, Japan, The Netherlands, Hong Kong, Singapore, UAE, India, Ireland, Germany, Switzerland, Luxembourg, Italy, France and development centers in India.
+Synechron's services are strategically aligned with clients’ business needs for growth, profitability optimization, efficiency, & compliance transparency. Synechron meets the challenges of its clients in Capital Markets, Insurance and Banking industries.
+
+We have multiple opening for Technical Architect Data for location of Toronto. 
+
+
+Position 1.
+
+Title: - Technical Architect Data
+
+Engagement Type: - Full time/Contract
+
+Work Location: - Downtown Toronto (Boston)
+
+Experience: - 5-12 years +
+
+Company: - Synechron Technologies Pvt Ltd.
+
+Job Description:-
+
+
+Experience in designing, building and optimizing Big Data pipelines, architectures, and working with large data sets.
+Proficiency with statistics, machine learning models techniques and how to apply them to build large scale data architectures
+Previous experience in analytics operationalization, specifically on performance, scalability etc.
+Experience with big data technologies – Hadoop (Pig, Hive), NoSQL/SQL databases, parallel processing techniques, stream processing engines (Apache Spark, Apache Flink), Kafka, Elasticsearch etc.
+Deep expertise in analytical tools such as R, Matlab, H2O, DeepLearning4J, TensorFlow
+Experience of scripting languages such as Python/Ruby/PHP
+Experience of relational databases and usage of SQL
+Familiarity with data visualization tools and techniques like jsQlik, Tableau, Datameer 
+Expertise with DevOps, Docker, Chef, containerization, automation techniques. Familiar with a Linux environment and shell scripting 
+Familiar with data extract, transform and load processes with a variety of data types 
+Interested candidates can reach out to me at amit.chauhan@synechron.com 

@@ -57,6 +57,7 @@ def checkIfAnalysed(wrd):
             exists = True
     
     with open("text.txt", "r") as dbFile:
+        existing = dbFile.readlines()
         skills = []
         for line in existing:
             skills.append(line.split(',')[0])
@@ -67,28 +68,86 @@ def checkIfAnalysed(wrd):
 def getUserInput():
     opt = raw_input("Options: \n 1 - Tech \n 2 - Soft \n 3 - Text \n Selection: ")
     return opt
+
+def performCleanUp():
+    analysedWords = []
+    rawWords = []
+    remainingWords = ''
+    
+    with open("techSkills.txt", "r") as dbFile:
+        existing = dbFile.readlines()
+        for line in existing:
+            analysedWords.append(line.split(',')[0])
+        
+    with open("softSkills.txt", "r") as dbFile:
+        existing = dbFile.readlines()
+        for line in existing:
+            analysedWords.append(line.split(',')[0])
+        
+    with open("text.txt", "r") as dbFile:
+        existing = dbFile.readlines()
+        for line in existing:
+            analysedWords.append(line.split(',')[0])
+            
+    with open("posting.txt", "r") as dbFile:
+        existing = dbFile.read()
+        existing = re.sub(r'([^\s\w]|_)+', ' ', existing)
+        for line in set(existing.split(' ')):
+            if len(line) > 0:
+                rawWords.append(line.replace('\n', ' ').replace('\t', ' '))
+    
+    rawWords = set(rawWords)
+    
+    for word in rawWords:
+        if word not in analysedWords:
+            remainingWords += str(word) + ' '
+    remainingWords = remainingWords.strip()
+    
+    with open("posting.txt", "w+") as dbFile:
+        dbFile.write(remainingWords)
     
 def performAction(opt, line):
     if opt == '1':
         insertTech(line)
+    elif opt == '2':
+        insertSoft(line)
+    elif opt == '3':
+        insertText(line)
+
     else:
+        performCleanUp()
         print("Exiting Application...")
         exit(1)
+
+def getRemainingWordCount():
+    rawWords = []
+    with open("posting.txt", "r") as dbFile:
+        existing = dbFile.read().replace('\n', ' ').replace('\t', ' ')
+        existing = re.sub(r'([^\s\w]|_)+', ' ', existing)
+        for line in existing.split(' '):
+            if line.isalnum():
+                rawWords.append(line.strip())
+    rawWords = set(rawWords)
+    return "Remaining Words : " + str(len(rawWords))
+            
     
 url = source + role + location
 #print("URL : "+ url)
 #openFiles()
 #page = urlopen(url)
-postingText = 'Big Data Developer Compunnel Software Group - Brampton, ON Job Summary I have a very urgent Direct Client requirement for Big Data Developer in Brampton ON. Please Let Me Know If you are comfortable for the below Job Description. Job Details: Role: - Big Data Developer Location: - Brampton ON Duration: - Full Time Responsibilities and Duties Job Description: At least Total 4+ years practical IT experience with Big Data systems, ETL, data processing, and analytics tools. Distributed computing experience using tools such as Hadoop and Spark. Proficiency in using query languages such as SQL, Hive and SparkSQL. Experience with entity-relationship modeling and understanding of normalization. Familiar with the concepts of dimensional modeling. Experience with Scala, Spark or Python. Able to understand various data structures and common methods in data transformation. Keeps up-to-date with newest technology trends. Job Type: Full-time Experience: practical IT: 7 years (Required)'
-postingText = re.sub(r'([^\s\w]|_)+', '', postingText)
+postingText = ''
+with open('posting.txt', 'r') as posting:
+    postingText = posting.read().replace('\n', ' ').replace('\t', ' ')
+postingText = re.sub(r'([^\s\w]|_)+', ' ', postingText)
+print(getRemainingWordCount())
 #soup = BeautifulSoup(page, "html.parser")
 #print(soup.text)
 
-postingList = list(list(postingText.split(' ')))
+postingList = list(postingText.split(' '))
 for word in postingList:
-    if len(word) > 0:
-        if not checkIfAnalysed(word):
-            os.system('cls')
-            print(word)
-            line = "\n" + word
-            performAction(getUserInput(), line)
+
+    #if not checkIfAnalysed(word):
+    os.system('cls')
+    print(word)
+    line = "\n" + word
+    performAction(getUserInput(), line)
